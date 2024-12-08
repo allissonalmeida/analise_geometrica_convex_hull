@@ -1,4 +1,4 @@
-Este protótipo tem por objetivo investigar a aplicabilidade da análise geométrica por visualização interativa na exploração de dados espaciais por posicionamento de jogadores de futebol mediante o desenvolvimento de um protótipo utilizando o algoritmo Convex Hull
+Este protótipo tem por objetivo investigar a aplicabilidade da análise geométrica por visualização interativa na exploração de dados espaciais por posicionamento de jogadores de futebol mediante o desenvolvimento de um protótipo utilizando o algoritmo Convex Hull.
 
 O algoritmo foi desenvolvido em linguagemm Python.
 Foram utilizadas as seguintes bibliotecas:
